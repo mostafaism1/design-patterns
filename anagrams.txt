@@ -1,0 +1,31 @@
+Behavioural:
+	COMMITS CVS
+		C: Chain of Responsibility
+		O: Observer
+		M: Mediator
+		M: Memento
+		I: Iterator
+		T: Template Method
+		S: Strategy
+		C: Command
+		V: Visitor
+		S: State
+
+
+Creational:
+	FAP BS
+		F: Factory
+		A: Abstract Factory
+		P: Proto-type
+		B: Builder
+		S: Singleton
+
+
+Structural
+	ABCD FF
+		A: Adapter
+		B: Bridge
+		C: Composite
+		D: Decorator
+		F: Fascade
+		F: Flyweight
